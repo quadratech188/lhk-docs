@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklhk_docs=self.webpackChunklhk_docs||[]).push([[8738],{7923:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/lhk-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
